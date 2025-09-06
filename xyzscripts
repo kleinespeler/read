@@ -1,0 +1,9 @@
+ifgame.PlaceId ~= 74260430392611 then
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/jensonhirst/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "Xyz Scripts", HidePremium = false, SaveConfig = true, ConfigFolder = "XyzScripts"})
+
+
+
+
+end 
+OrionLib:Init()
